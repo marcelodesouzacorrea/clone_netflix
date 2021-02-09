@@ -2,8 +2,8 @@
 Um clone do site netflix
 
 ## Objetivos do projeto
-- Auxilir na compreenção e entendimento das ferramentas de desenvolvimento web baseado apenas no font-end;
-- Mostrar o uso das mais modernas tecnicas usadas para criar paginas responsivas;
+- Auxilir na compreensão e entendimento das ferramentas de desenvolvimento web baseado apenas no font-end;
+- Mostrar o uso das mais modernas técnicas usadas para criar paginas responsivas;
 
 ## Ferramentas utilizadas
  HTML5;
